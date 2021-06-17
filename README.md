@@ -11,6 +11,7 @@ Voici la liste de l'ensemble des développeurs qui ont contribué au succès de 
 Quelques informations utiles : 
 Vous trouverez d'autre documents en plus du code de l'application :
 - Le tutoriel d'installation de l'application Web en local (sur votre machine) -> Tutoriel_UwAmp_Installation_Projet.pdf
+- Un dossier de conception du projet
 
 ---
 Comment lancer l'application ? 
